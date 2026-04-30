@@ -31,12 +31,14 @@ button {
   width: 100px;
   border-radius: 15px;
   border: 2px solid black;
+  gap: 2px;
 }
 button:active {
   scale: 90%;
 }
 #Previous {
   display: flex;
+  font-size: medium;
 }
 #result {
   background-color: #dbeafe;
